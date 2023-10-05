@@ -1,3 +1,3 @@
 # Histogramandpython
-lets find the Laergest variable,
-By using histogram and summary statistics.
+# lets find the Largest variable,
+# By using histogram and summary statistics.
